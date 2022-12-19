@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelo Pan on Holly Wiberg</title>
+    <link>https://hwiberg.github.io/authors/angelo-pan/</link>
+    <description>Recent content in Angelo Pan on Holly Wiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hwiberg.github.io/authors/angelo-pan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>https://hwiberg.github.io/publication/covid_mortality/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 mortality prediction: a data-driven risk assessment tool</title>
+      <link>https://hwiberg.github.io/talk/swissre_summit/</link>
+      <pubDate>Tue, 10 Nov 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/swissre_summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Risk Predictions for COVID-19</title>
+      <link>https://hwiberg.github.io/talk/informs2020/</link>
+      <pubDate>Mon, 09 Nov 2020 16:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

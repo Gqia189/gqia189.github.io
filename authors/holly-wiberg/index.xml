@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holly Wiberg</title>
+    <link>https://hwiberg.github.io/authors/holly-wiberg/</link>
+    <description>Recent content on Holly Wiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 06:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hwiberg.github.io/authors/holly-wiberg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Data to Prescriptions: An Optimization Framework for Treatment Personalization</title>
+      <link>https://hwiberg.github.io/talk/informs2021/</link>
+      <pubDate>Mon, 25 Oct 2021 06:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>https://hwiberg.github.io/publication/opticl/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/opticl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization with Constraint Learning</title>
+      <link>https://hwiberg.github.io/talk/cornell_yrw/</link>
+      <pubDate>Fri, 08 Oct 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/cornell_yrw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Data to Prescriptions: An Optimization Framework for Treatment Personalization</title>
+      <link>https://hwiberg.github.io/talk/informshealthcare2021/</link>
+      <pubDate>Wed, 21 Jul 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informshealthcare2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach</title>
+      <link>https://hwiberg.github.io/publication/neutropenia/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/neutropenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
+      <link>https://hwiberg.github.io/publication/covid_treatments/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>https://hwiberg.github.io/publication/covid_mortality/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 mortality prediction: a data-driven risk assessment tool</title>
+      <link>https://hwiberg.github.io/talk/swissre_summit/</link>
+      <pubDate>Tue, 10 Nov 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/swissre_summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Risk Predictions for COVID-19</title>
+      <link>https://hwiberg.github.io/talk/informs2020/</link>
+      <pubDate>Mon, 09 Nov 2020 16:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
+      <link>https://hwiberg.github.io/publication/ml_oncology/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/ml_oncology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable clustering: an optimization approach</title>
+      <link>https://hwiberg.github.io/publication/icot/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/icot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Optimization Approach to Roster Creation</title>
+      <link>https://hwiberg.github.io/talk/ssac2020/</link>
+      <pubDate>Sat, 07 Mar 2020 13:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/ssac2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of cervical spine injury in young pediatric patients: an optimal trees artificial intelligence approach</title>
+      <link>https://hwiberg.github.io/publication/jps/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/jps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network-Based Approach To Drug-Target Interactions In Cancer</title>
+      <link>https://hwiberg.github.io/talk/informs2019/</link>
+      <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Cancer Therapies using Genomic Information</title>
+      <link>https://hwiberg.github.io/talk/informshealthcare2019/</link>
+      <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informshealthcare2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Poster] Interpretable Clustering via Optimal Trees</title>
+      <link>https://hwiberg.github.io/talk/neurips2018/</link>
+      <pubDate>Fri, 07 Dec 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/neurips2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Cervical Spine Injury in Pediatric Trauma Patients</title>
+      <link>https://hwiberg.github.io/talk/informs2018/</link>
+      <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation optimization for a large-scale bike-sharing system</title>
+      <link>https://hwiberg.github.io/publication/wsc/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

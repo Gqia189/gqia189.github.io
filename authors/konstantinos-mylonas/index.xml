@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstantinos Mylonas on Holly Wiberg</title>
+    <link>https://hwiberg.github.io/authors/konstantinos-mylonas/</link>
+    <description>Recent content in Konstantinos Mylonas on Holly Wiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hwiberg.github.io/authors/konstantinos-mylonas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prediction of cervical spine injury in young pediatric patients: an optimal trees artificial intelligence approach</title>
+      <link>https://hwiberg.github.io/publication/jps/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/jps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Cervical Spine Injury in Pediatric Trauma Patients</title>
+      <link>https://hwiberg.github.io/talk/informs2018/</link>
+      <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

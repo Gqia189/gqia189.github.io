@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Freund on Holly Wiberg</title>
+    <link>https://hwiberg.github.io/authors/daniel-freund/</link>
+    <description>Recent content in Daniel Freund on Holly Wiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hwiberg.github.io/authors/daniel-freund/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulation optimization for a large-scale bike-sharing system</title>
+      <link>https://hwiberg.github.io/publication/wsc/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agni Orfanoudaki on Holly Wiberg</title>
+    <link>https://hwiberg.github.io/authors/agni-orfanoudaki/</link>
+    <description>Recent content in Agni Orfanoudaki on Holly Wiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hwiberg.github.io/authors/agni-orfanoudaki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
+      <link>https://hwiberg.github.io/publication/covid_treatments/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>https://hwiberg.github.io/publication/covid_mortality/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 mortality prediction: a data-driven risk assessment tool</title>
+      <link>https://hwiberg.github.io/talk/swissre_summit/</link>
+      <pubDate>Tue, 10 Nov 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/swissre_summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Risk Predictions for COVID-19</title>
+      <link>https://hwiberg.github.io/talk/informs2020/</link>
+      <pubDate>Mon, 09 Nov 2020 16:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable clustering: an optimization approach</title>
+      <link>https://hwiberg.github.io/publication/icot/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/icot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network-Based Approach To Drug-Target Interactions In Cancer</title>
+      <link>https://hwiberg.github.io/talk/informs2019/</link>
+      <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Cancer Therapies using Genomic Information</title>
+      <link>https://hwiberg.github.io/talk/informshealthcare2019/</link>
+      <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informshealthcare2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Poster] Interpretable Clustering via Optimal Trees</title>
+      <link>https://hwiberg.github.io/talk/neurips2018/</link>
+      <pubDate>Fri, 07 Dec 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/neurips2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
