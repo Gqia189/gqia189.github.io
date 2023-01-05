@@ -1,3 +1,143 @@
-[{"authors":["admin"],"categories":null,"content":"I am currently a 2nd year PhD student in Management Science and Engineering at Stanford working with Professor Margaret Brandeau. My research focuses on the development of applied mathematical, economic models, and machine learning models to support health policy decisions. My recent work has been focused on HIV prevention and treatment programs, programs to control US opioid epidemic, and policies for minimizing spread of infectious diseases (including COVID-19). \nI am passionate about using optimization theory and machine learning to implement scalable solutions in solving complex, real-world problems including but not limited to applications in healthcare.\n","date":-62135596800,"expirydate":-62135596800,"kind":"taxonomy","lang":"en","lastmod":-62135596800,"objectID":"2525497d367e79493fd32b198b28f040","permalink":"https://gqia189.github.io/authors/admin/","publishdate":"0001-01-01T00:00:00Z","relpermalink":"/authors/admin/","section":"authors","summary":"I am currently a 2nd year PhD student in Management Science and Engineering at Stanford working with Professor Margaret Brandeau. My research focuses on the development of applied mathematical, economic models, and machine learning models to support health policy decisions. My recent work has been focused on HIV prevention and treatment programs, programs to control US opioid epidemic, and policies for minimizing spread of infectious diseases (including COVID-19).I am passionate about using optimization theory and machine learning to implement scalable solutions in solving complex, real-world problems including but not limited to applications in healthcare.","tags":null,"title":"Gary Qian","type":"authors"}, 
-{"authors":["Michael Fairley", "Isabelle Rao", "Margaret Brandeau", "Gary Qian", "Gregg Gonsalves"],"categories":null,"content":"","date":1635141600,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1635141600,"objectID":"6c04d979871c48a9dcfc2db7efa96f9e","permalink":"https://hwiberg.github.io/Publication/Surveillance/","publishdate":"2022-05-08T06:00:00Z","relpermalink":"/Publication/Surveillance/","section":"Publication","summary":"Outbreaks of an endemic infectious disease can occur when the disease is introduced into a highly susceptible subpopulation or when the disease enters a network of connected individuals. For example, significant HIV outbreaks among people who inject drugs have occurred in at least half a dozen US states in recent years. This motivates the current study: how can limited testing resources be allocated across geographic regions to rapidly detect outbreaks of an endemic infectious disease? We develop an adaptive sampling algorithm that uses profile likelihood to estimate the distribution of the number of positive tests that would occur for each location in a future time period if that location were sampled. Sampling is performed in the location with the highest estimated probability of triggering an outbreak alarm in the next time period. The alarm function is determined by a semiparametric likelihood ratio test. We compare the profile likelihood sampling (PLS) method numerically to uniform random sampling (URS) and Thompson sampling (TS). TS was worse than URS when the outbreak occurred in a location with lower initial prevalence than other locations. PLS had lower time to outbreak detection than TS in some but not all scenarios, but was always better than URS even when the outbreak occurred in a location with a lower initial prevalence than other locations. PLS provides an effective and reliable method for rapidly detecting endemic disease outbreaks that is robust to this uncertainty.","tags":null,"title":"Surveillance for
-endemic infectious disease outbreaks: Adaptive sampling using profile likelihood estimation.","type":"Publication"}]
+[
+    {
+        "authors": [
+            "admin"
+        ],
+        "categories": null,
+        "content": "I am currently a 2nd year PhD student in Management Science and Engineering at Stanford working with Professor Margaret Brandeau. My research focuses on the development of applied mathematical, economic models, and machine learning models to support health policy decisions. My recent work has been focused on HIV prevention and treatment programs, programs to control US opioid epidemic, and policies for minimizing spread of infectious diseases (including COVID-19).\n I am passionate about using optimization theory and machine learning to implement scalable solutions in solving complex, real-world problems including but not limited to applications in healthcare.\n",
+        "date": -62135596800,
+        "expirydate": -62135596800,
+        "kind": "taxonomy",
+        "lang": "en",
+        "lastmod": -62135596800,
+        "objectID": "2525497d367e79493fd32b198b28f040",
+        "permalink": "https://hwiberg.github.io/authors/admin/",
+        "publishdate": "0001-01-01T00:00:00Z",
+        "relpermalink": "/authors/admin/",
+        "section": "authors",
+        "summary": "I am currently a 2nd year PhD student in Management Science and Engineering at Stanford working with Professor Margaret Brandeau. My research focuses on the development of applied mathematical, economic models, and machine learning models to support health policy decisions. My recent work has been focused on HIV prevention and treatment programs, programs to control US opioid epidemic, and policies for minimizing spread of infectious diseases (including COVID-19).\n I am passionate about using optimization theory and machine learning to implement scalable solutions in solving complex, real-world problems including but not limited to applications in healthcare.\n",
+        "tags": null,
+        "title": "Gary Qian",
+        "type": "authors"
+    },
+    {
+        "authors": [
+            "Gary Qian", 
+            "Isabelle Rao", 
+            "Keith Humphreys", 
+            "Douglas Owens",
+            "Margaret Brandeau"
+        ],
+        "categories": null,
+        "content": "",
+        "date": 1635141600,
+        "expirydate": -62135596800,
+        "kind": "page",
+        "lang": "en",
+        "lastmod": 1635141600,
+        "objectID": "6c04d979871c48a9dcfc2db7efa96f9e",
+        "permalink": "https://gqia189.github.io/publication/OBBT/",
+        "publishdate": "2023-1-9T06:00:00Z",
+        "relpermalink": "/publication/OBBT/",
+        "section": "publication",
+        "summary": "Aim: To assess the effectiveness and cost-effectiveness of office-based buprenorphine treatment (OBBT) in the U.S. Design, Setting and Participants: We performed a model-based analysis of medication-assisted treatment with buprenorphine provided in a primary care setting for the U.S. population with OUD. Intervention: Medication-assisted treatment with buprenorphine provided in a primary care setting. Measurements: Fatal and nonfatal overdoses and deaths over five years, discounted lifetime quality-adjusted life years (QALYs), costs. Findings: For a cohort of 100,000 untreated individuals who enter OBBT, approximately 9,350 overdoses would be averted over five years; of these, approximately 900 would have been fatal. OBBT compared to no treatment would yield 1.07 incremental lifetime QALYs per person at an incremental cost of $17,000 per QALY gained when using a healthcare perspective. If OBBT is half as effective and twice as expensive as assumed in the base case, the incremental cost when using a healthcare perspective is $25,500 per QALY gained. Using a limited societal perspective that additionally includes patient costs and criminal justice costs, OBBT is cost-saving compared to no treatment even under pessimistic assumptions about efficacy and cost. Conclusions: Expansion of OBBT would be highly cost-effective compared to no treatment when considered from a healthcare perspective, and cost-saving when reduced criminal justice costs are included. Given the continuing opioid crisis in the U.S., expansion of this care option should be a high priority.",
+        "tags": null,
+        "title": "Cost-Effectiveness of Office-Based Buprenorphine Treatment for Opioid Use Disorder",
+        "type": "publication"
+    },
+    {
+        "authors": [
+            "Grace Guan", 
+            "Merav Mofaz",
+            "Gary Qian", 
+            "Tal Patalon",
+            "Erez Shmueli",
+            "Dan Yamin",
+            "Margaret Brandeau"
+        ],
+        "categories": null,
+        "content": "",
+        "date": 1634256000,
+        "expirydate": -62135596800,
+        "kind": "page",
+        "lang": "en",
+        "lastmod": 1634256000,
+        "objectID": "3c91accca90af71acc6210318f5cb25d",
+        "permalink": "https://gqia189.github.io/publication/Garmin/",
+        "publishdate": null,
+        "relpermalink": "/publication/Garmin/",
+        "section": "publication",
+        "summary": "More than 12 billion COVID-19 vaccination shots have been administered as of August 2022, but information from active surveillance about vaccine safety is limited. Surveillance is generally based on self-reporting, making the monitoring process subjective. We study participants in Israel who received their second or third Pfizer BioNTech COVID-19 vaccination. All participants wore a Garmin Vivosmart 4 smartwatch and completed a daily questionnaire via smartphone. We compare post-vaccination smartwatch heart rate data and a Garmin-computed stress measure based on heart rate variability with data from the patient questionnaires. Using a mixed effects panel regression to remove participant-level fixed and random effects, we identify considerable changes in smartwatch measures in the 72 h post-vaccination even among participants who reported no side effects in the questionnaire. Wearable devices were more sensitive than questionnaires in determining when participants returned to baseline levels. We conclude that wearable devices can detect physiological responses following vaccination that may not be captured by patient self-reporting. More broadly, the ubiquity of smartwatches provides an opportunity to gather improved data on patient health, including active surveillance of vaccine safety.",
+        "tags": null,
+        "title": "Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches",
+        "type": "publication"
+    },
+    {
+        "authors": [
+            "Michael Fairley",
+            "Isabelle Rao", 
+            "Margaret Brandeau",
+            "Gary Qian", 
+            "Gregg Gonsalves"
+        ],
+        "categories": null,
+        "content": "",
+        "date": 1633683600,
+        "expirydate": -62135596800,
+        "kind": "page",
+        "lang": "en",
+        "lastmod": 1633683600,
+        "objectID": "86b726ff17e425b861f5d26bc1a04e13",
+        "permalink": "https://gqia189.github.io/publication/Surveillance",
+        "publishdate": null,
+        "relpermalink": "/publication/Surveillance/",
+        "section": "publication",
+        "summary": "Outbreaks of an endemic infectious disease can occur when the disease is introduced into a highly susceptible subpopulation or when the disease enters a network of connected individuals. For example, significant HIV outbreaks among people who inject drugs have occurred in at least half a dozen US states in recent years. This motivates the current study: how can limited testing resources be allocated across geographic regions to rapidly detect outbreaks of an endemic infectious disease? We develop an adaptive sampling algorithm that uses profile likelihood to estimate the distribution of the number of positive tests that would occur for each location in a future time period if that location were sampled. Sampling is performed in the location with the highest estimated probability of triggering an outbreak alarm in the next time period. The alarm function is determined by a semiparametric likelihood ratio test. We compare the profile likelihood sampling (PLS) method numerically to uniform random sampling (URS) and Thompson sampling (TS). TS was worse than URS when the outbreak occurred in a location with lower initial prevalence than other locations. PLS had lower time to outbreak detection than TS in some but not all scenarios, but was always better than URS even when the outbreak occurred in a location with a lower initial prevalence than other locations. PLS provides an effective and reliable method for rapidly detecting endemic disease outbreaks that is robust to this uncertainty.",
+        "tags": null,
+        "title": "Surveillance for endemic infectious disease outbreaks: Adaptive sampling using profile likelihood estimation",
+        "type": "publication"
+    },
+    {
+        "authors": [
+            "Dimitris Bertsimas",
+            "Holly Wiberg"
+        ],
+        "categories": null,
+        "content": "",
+        "date": 1626876000,
+        "expirydate": -62135596800,
+        "kind": "page",
+        "lang": "en",
+        "lastmod": 1626876000,
+        "objectID": "485a145ed32e307979e5e8e24e9da9f5",
+        "permalink": "https://hwiberg.github.io/talk/informshealthcare2021/",
+        "publishdate": "2021-07-21T14:00:00Z",
+        "relpermalink": "/talk/informshealthcare2021/",
+        "section": "talk",
+        "summary": "Personalized treatment involves several complex decisions, particularly in the presence of multiple treatment options and continuous dosages. We propose a joint machine learning and optimization framework for treatment prescriptions, in which we leverage ML to learn treatment effects from data and formulate a mixed-integer programming model to identify promising regimens from the ML models. The approach generalizes to multiple treatment objectives and risk tolerances, as well as additional clinically-derived constraints. We demonstrate the method in chemotherapy as well as chronic disease management.",
+        "tags": null,
+        "title": "From Data to Prescriptions: An Optimization Framework for Treatment Personalization",
+        "type": "talk"
+    },
+    {
+        "authors": [
+            "Gary Qian"
+        ],
+        "categories": null,
+        "content": "",
+        "date": 1626220800,
+        "expirydate": -62135596800,
+        "kind": "page",
+        "lang": "en",
+        "lastmod": 1626220800,
+        "objectID": "85d8c9272fb429bb6d6758e565fb69f9",
+        "permalink": "https://gqia189.github.io/publication/OCR/",
+        "publishdate": null,
+        "relpermalink": "/publication/OCR/",
+        "section": "publication",
+        "summary": "With the increasing expectation of online access to documents, there has been increasing demand for optical character recognition (OCR) software that can reliably transform archival documents into a searchable, electronic file. Currently, there is still a lack of OCR software that can interpret the meaning behind specific documents. The Maori Land Court is currently in possession of thousands of scanned documents that are not being utilised fully. The format of these documents provides an obstacle for the people interested in finding and extracting therelevant information effectively. This thesis presents a Python-based OCR software package that allows the underlying meaning of a structured document to be incorporated into the digitisation process. We allow the user to tailor the OCR process to specific documents. As part of this research, we propose a novel method for page layout interpretation and we show that this algorithm is sufficiently flexible to work with different document structures. In addition, our software provides an interface that allows the user to design an output based on their future processing needs. Our software has been used to convert two scanned historical Maori Land Court documents for the Parininihi ki Waitotora Incorporation into electronic text. During this research, we have created many Python programs and software tools that enable a better user experience when using our OCR system on Maori documents.",
+        "tags": null,
+        "title": "Optical Character Recognition Pipeline For Maori Archival Documents",
+        "type": "publication"
+    }
+]
