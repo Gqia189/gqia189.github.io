@@ -9,8 +9,34 @@
     <lastBuildDate>Mon, 25 Oct 2021 06:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://gqia189.github.io/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Cost-Effectiveness of Office-Based Buprenorphine Treatment for Opioid Use Disorder</title>
+      <link>https://gqia189.github.io/publication/OBBT/</link>
+      <pubDate>Mon, 9 Jan 2023 06:00:00 +0000</pubDate>
+      
+      <guid>https://gqia189.github.io/publication/OBBT</guid>
+      <description></description>
+    </item>    
+
+    <item>
+      <title>Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches</title>
+      <link>https://gqia189.github.io/publication/Garmin/</link>
+      <pubDate>Fri, 9 Sept 2022 06:00:00 +0000</pubDate>
+      
+      <guid>https://gqia189.github.io/publication/Garmin/</guid>
+      <description></description>
+    </item>  
     
-    
+    <item>
+      <title>Surveillance for endemic infectious disease outbreaks: Adaptive sampling using profile likelihood estimation</title>
+      <link>https://gqia189.github.io/publication/Surveillance/</link>
+      <pubDate>Sun, 8 May 2022 06:00:00 +0000</pubDate>
+      
+      <guid>https://gqia189.github.io/publication/Surveillance/</guid>
+      <description></description>
+    </item>     
+    <!--
     <item>
       <title>From Data to Prescriptions: An Optimization Framework for Treatment Personalization</title>
       <link>https://gqia189.github.io/talk/informs2021/</link>
@@ -190,6 +216,6 @@
       <guid>https://gqia189.github.io/publication/wsc/</guid>
       <description></description>
     </item>
-    
+    -->
   </channel>
 </rss>
