@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Holly Wiberg</title>
-    <link>https://hwiberg.github.io/authors/admin/</link>
-    <description>Recent content on Holly Wiberg</description>
+    <title>Gary Qian</title>
+    <link>https://gqia189.github.io/authors/admin/</link>
+    <description>Recent content on Gary Qian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://hwiberg.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gqia189.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://hwiberg.github.io/authors/admin/</link>
+      <link>https://gqia189.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hwiberg.github.io/authors/admin/</guid>
+      <guid>https://gqia189.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Hello! I recently completed my PhD at the Operations Research Center at MIT, working with &lt;a href=&#34;https://www.mit.edu/~dbertsim/&#34; target=&#34;_blank&#34;&gt;Professor Dimitris Bertsimas&lt;/a&gt;. My research leverages optimization and machine learning techniques in healthcare. I develop novel approaches to enable data-driven decision making, including prescriptive frameworks and interpretable methods. In parallel, I have collaborated extensively with clinical collaborators on projects spanning oncology, pediatric trauma, and &lt;a href=&#34;https://covidanalytics.io&#34; target=&#34;_blank&#34;&gt;COVID-19&lt;/a&gt;. I previously worked at &lt;a href=&#34;https://www.athenahealth.com/&#34; target=&#34;_blank&#34;&gt;athenahealth&lt;/a&gt;, a healthcare IT company, on their Data Science team.&lt;/p&gt;
 
 &lt;p&gt;I am delighted to be joining Carnegie Mellon University&amp;rsquo;s &lt;a href=&#34;https://www.heinz.cmu.edu&#34; target=&#34;_blank&#34;&gt;Heinz College of Information Systems and Public Policy&lt;/a&gt; in Fall 2023, where I will be an Assistant Professor of Public Policy and Operations Research. In the meantime, I&amp;rsquo;ll be working on machine learning research at &lt;a href=&#34;https://flatiron.com&#34; target=&#34;_blank&#34;&gt;Flatiron Health&lt;/a&gt;. If you are interested in data-driven healthcare, I&amp;rsquo;d love to connect in NYC or Pittsburgh!&lt;/p&gt;
