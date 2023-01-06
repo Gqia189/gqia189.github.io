@@ -11,7 +11,7 @@
         "lang": "en",
         "lastmod": -62135596800,
         "objectID": "2525497d367e79493fd32b198b28f040",
-        "permalink": "https://hwiberg.github.io/authors/admin/",
+        "permalink": "https://gqia189.github.io/authors/admin/",
         "publishdate": "0001-01-01T00:00:00Z",
         "relpermalink": "/authors/admin/",
         "section": "authors",
@@ -96,28 +96,6 @@
         "tags": null,
         "title": "Surveillance for endemic infectious disease outbreaks: Adaptive sampling using profile likelihood estimation",
         "type": "publication"
-    },
-    {
-        "authors": [
-            "Dimitris Bertsimas",
-            "Holly Wiberg"
-        ],
-        "categories": null,
-        "content": "",
-        "date": 1626876000,
-        "expirydate": -62135596800,
-        "kind": "page",
-        "lang": "en",
-        "lastmod": 1626876000,
-        "objectID": "485a145ed32e307979e5e8e24e9da9f5",
-        "permalink": "https://hwiberg.github.io/talk/informshealthcare2021/",
-        "publishdate": "2021-07-21T14:00:00Z",
-        "relpermalink": "/talk/informshealthcare2021/",
-        "section": "talk",
-        "summary": "Personalized treatment involves several complex decisions, particularly in the presence of multiple treatment options and continuous dosages. We propose a joint machine learning and optimization framework for treatment prescriptions, in which we leverage ML to learn treatment effects from data and formulate a mixed-integer programming model to identify promising regimens from the ML models. The approach generalizes to multiple treatment objectives and risk tolerances, as well as additional clinically-derived constraints. We demonstrate the method in chemotherapy as well as chronic disease management.",
-        "tags": null,
-        "title": "From Data to Prescriptions: An Optimization Framework for Treatment Personalization",
-        "type": "talk"
     },
     {
         "authors": [
